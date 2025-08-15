@@ -21,7 +21,7 @@ body {
 }
 
 hr {
-    height: 1px;
+    height: 10px;
     border: solid green;
-    background-color: green;
+    background-color: rgb(23, 0, 128);
 }
