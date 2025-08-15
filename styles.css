@@ -1,10 +1,12 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-image: url(upscalemedia-transformed.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .image{
     border: 5px solid green;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 400px;
 }
 
